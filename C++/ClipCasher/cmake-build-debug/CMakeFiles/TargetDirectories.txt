@@ -1,3 +1,0 @@
-R:/.projects/C++/ClipCasher/cmake-build-debug/CMakeFiles/ClipCasher.dir
-R:/.projects/C++/ClipCasher/cmake-build-debug/CMakeFiles/edit_cache.dir
-R:/.projects/C++/ClipCasher/cmake-build-debug/CMakeFiles/rebuild_cache.dir

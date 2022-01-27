@@ -1,4 +1,0 @@
-E:\l\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.46\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/l/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/bin/ninja/win/ninja.exe -G Ninja R:\.projects\C++\ClipCasher
--- Configuring done
--- Generating done
--- Build files have been written to: R:/.projects/C++/ClipCasher/cmake-build-debug
